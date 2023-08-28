@@ -1,0 +1,6 @@
+-----------------create the project in standard way------------------
+laravel new livewire
+-----------------create the project with jetstream--------------------
+laravel new livewire --jet
+npm install 
+npm run dev
