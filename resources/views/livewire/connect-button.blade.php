@@ -1,4 +1,4 @@
-<button wire:click="$toggle()" class="px-4 py-2 mb-1 text-xs font-bold text-white uppercase bg-pink-500 rounded shadow outline-none active:bg-pink-600 hover:shadow-md" type="button" style="transition:all 0.15s ease 0s;">
+<button wire:click="connected" class="px-4 py-2 mb-1 text-xs font-bold text-white uppercase bg-pink-500 rounded shadow outline-none active:bg-pink-600 hover:shadow-md" type="button" style="transition:all 0.15s ease 0s;">
 connect {{$name}}
 </button>
 
