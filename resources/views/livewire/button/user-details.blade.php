@@ -1,3 +1,4 @@
 <div>
-    {{-- Success is as dangerous as failure. --}}
+    <h1>{{ $firstName }}</h1>
+    <h2>{{ $lastname }}</h2>
 </div>
