@@ -11,7 +11,7 @@ class Save extends Component
         return <<<'HTML'
         <div>
             <button>
-                Save
+                save
             </button>
         </div>
         HTML;
