@@ -32,8 +32,7 @@
             @endif
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
-                <livewire:button.delete />
-                <livewire:button.save />
+                <livewire:connect-button/>
             </div>
         </div>
     </body>
